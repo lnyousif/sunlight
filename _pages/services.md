@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Style Guide
-permalink: /styleguide/
+title: Services
+permalink: /services/
 image: 08.jpg
 ---
 

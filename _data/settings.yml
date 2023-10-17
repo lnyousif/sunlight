@@ -10,13 +10,13 @@ description:  Sun Light Project
 author:
   name: Laith Yousif
   image: 01.jpg
-  say-hello: Hello, I’m <strong>Laith Yousif</strong>
-  bio: nothing yet
+  say-hello: The sunlight project 
+  bio: Coming Soon
 
 
 #-------------------------------
 # Contact links
-twitter: https://twitter.com/ # Add your Twitter handle
+#twitter: https://twitter.com/ # Add your Twitter handle
 #facebook: https://facebook.com/ # Add your Facebook handle
 #dribbble: https://dribbble.com/ # Add your Dribbble handle
 #instagram: https://instagram.com/ # Add your Instagram handle
